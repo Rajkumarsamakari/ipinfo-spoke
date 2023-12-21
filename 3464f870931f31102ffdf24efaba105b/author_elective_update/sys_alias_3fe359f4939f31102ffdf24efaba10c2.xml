@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_1132934_ipinfo_s.Rebrickable_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Rebrickable_Alias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 11:44:00</sys_created_on>
+        <sys_id>3fe359f4939f31102ffdf24efaba10c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1132934_ipinfo_s.Rebrickable_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_1132934_ipinfo_s">3464f870931f31102ffdf24efaba105b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">3464f870931f31102ffdf24efaba105b</sys_scope>
+        <sys_update_name>sys_alias_3fe359f4939f31102ffdf24efaba10c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 11:44:00</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPInfo Spoke">3464f870931f31102ffdf24efaba105b</application>
+        <file_path/>
+        <instance_id>6634e8471bca3190168f4089bd4bcb53</instance_id>
+        <instance_name>dev195224</instance_name>
+        <name>sys_alias_3fe359f4939f31102ffdf24efaba10c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_1132934_ipinfo_s.Rebrickable_Alias</id><multiple_connections>false</multiple_connections><name>Rebrickable_Alias</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 11:44:00</sys_created_on><sys_id>3fe359f4939f31102ffdf24efaba10c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1132934_ipinfo_s.Rebrickable_Alias</sys_name><sys_package display_value="IPInfo Spoke" source="x_1132934_ipinfo_s">3464f870931f31102ffdf24efaba105b</sys_package><sys_policy/><sys_scope display_value="IPInfo Spoke">3464f870931f31102ffdf24efaba105b</sys_scope><sys_update_name>sys_alias_3fe359f4939f31102ffdf24efaba10c2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 11:44:00</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1704605916</payload_hash>
+        <record_name>x_1132934_ipinfo_s.Rebrickable_Alias</record_name>
+        <reverted_from/>
+        <source>3464f870931f31102ffdf24efaba105d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 11:44:00</sys_created_on>
+        <sys_id>ca345570935f31102ffdf24efaba1085</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8c308a200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 11:44:00</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>8e345570005f311011963761e5995f84</update_guid>
+        <update_guid_history>8e345570005f311011963761e5995f84:1704605916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 11:51:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>65d19f3a81d04e79b0f28bdc695cb9d1</sys_id>
+        <sys_metadata>3fe359f4939f31102ffdf24efaba10c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1132934_ipinfo_s.Rebrickable_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_1132934_ipinfo_s">3464f870931f31102ffdf24efaba105b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">3464f870931f31102ffdf24efaba105b</sys_scope>
+        <sys_scope_delete display_value="">8133f152231145709f823fe59f977604</sys_scope_delete>
+        <sys_update_name>sys_alias_3fe359f4939f31102ffdf24efaba10c2</sys_update_name>
+        <sys_update_version display_value="sys_alias_3fe359f4939f31102ffdf24efaba10c2">ca345570935f31102ffdf24efaba1085</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 11:51:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
